@@ -1,3 +1,6 @@
+### Tutorial link I am learning from:
+https://egghead.io/lessons/react-use-create-react-app-to-setup-a-simple-react-app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
